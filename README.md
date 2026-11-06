@@ -4,6 +4,10 @@ small experiments in motion, materials, and interaction, built with swiftui and 
 
 these are working prototypes to learn from, fork, and make your own. they explore how an interaction feels; they are not production-ready components or physically exact simulations.
 
+
+like it? 🌟 [leave a star on github](https://github.com/kaganin/swiftui-interactions): it helps others discover these experiments.
+
+want to follow my journey? 🔗 [find me on x](https://x.com/kaganin).
 ## experiments
 
 ### bubblegum
