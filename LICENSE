@@ -1,0 +1,107 @@
+SwiftUI Interactions Attribution License 1.1
+
+Copyright (c) 2026 Kağan
+Attribution website: https://kagan.in
+
+1. Scope and permission
+
+"Covered Material" means the original code, documentation, and project-owned
+assets in this repository, and copyrightable portions of them, to the extent
+that the relevant copyright holder can license them. Separately licensed
+third-party material is excluded; see THIRD_PARTY_NOTICES.md.
+
+Subject to the conditions below, each copyright holder grants you a worldwide,
+non-exclusive, royalty-free copyright license to use, copy, study, modify,
+merge, reproduce, display, perform, and distribute the Covered Material,
+including in commercial and closed-source products, and to sell products or
+copies containing it. You do not have to publish your own source code.
+
+2. Preserve the license and notices
+
+Include this license and applicable copyright notices with copies or
+substantial portions of the Covered Material that you distribute, including
+modified copies. For a compiled product, include them in its accompanying
+licenses, legal notices, or documentation. Do not remove or replace these
+terms for the Covered Material. You may license your separate contributions
+or the rest of your product under other terms, provided they do not remove
+the rights or obligations attached to the Covered Material under this license.
+
+3. Visible attribution
+
+If you distribute, publicly display, or make available a product or work
+containing or incorporating the Covered Material, whether modified or not,
+you must provide a readable credit linking to https://kagan.in. Displaying
+the website address alone is sufficient. For example:
+
+    https://kagan.in
+
+No separate personal name or social profile is required. Equivalent wording
+or a faithful translation is allowed, provided the website link remains
+clear. Do not imply that Kağan created your entire product or endorses it.
+
+For an application or website, place the credit in a normally accessible
+About, Credits, or Acknowledgements screen or page. It need not appear on
+every screen or during every interaction, but it must not be available only
+in source code, developer tools, or an unrelated legal file. Where links are
+supported, the website link must be clickable.
+
+For source-only forks, libraries, or packages, place the credit prominently
+in the README or equivalent primary documentation and retain this license.
+Someone incorporating that material into an application or website must
+also satisfy the product-level credit requirement above.
+
+For a publicly shared standalone demo, video, or other work displaying the
+Covered Material, place the credit in the work or its accompanying caption,
+description, or credits. Where clickable links are not supported, print the
+website URL. A social media post alone does not replace the credit required
+inside a distributed application or website.
+
+Keep the credit available for as long as you distribute or make available
+the relevant product or work. One appropriate credit per product is enough;
+you do not need a separate credit for every experiment used.
+
+Private study, local experimentation, and internal use that does not involve
+distribution or public availability do not require a public-facing credit.
+This license does not impose obligations on ideas, independently written
+implementations, public-domain material, or uses permitted by applicable law
+without a copyright license.
+
+4. Written permission to omit visible attribution
+
+You may omit or change the visible credit required by section 3 only after
+obtaining express written permission from Kağan. Request permission through
+https://x.com/kaganin and identify your product, the material used, and the
+credit exception you seek. An explicit written reply, including an X direct
+message, may grant permission. Sending a request, silence, or a "like" is
+not permission.
+
+Permission applies only to its stated scope and recipients. Unless the
+written permission explicitly says otherwise, it does not waive section 2
+or any third-party license, and it does not transfer automatically to other
+products or recipients. Commercial use with compliant attribution needs no
+separate permission or fee under this license.
+
+5. Compliance and termination
+
+The permission above is conditional on compliance with this license. If you
+violate it, you must correct the violation within 30 days after becoming
+aware of it. If you do not, your rights under this license terminate.
+Reinstatement after termination requires written permission from the
+relevant copyright holder. Recipients who independently comply with this
+license retain their rights.
+
+6. No endorsement or additional rights
+
+This license grants no right to imply sponsorship or endorsement, and no
+rights to trademarks, patents, or other rights beyond the copyright license
+expressly granted above. Required use of the website URL for accurate
+attribution is permitted. Third-party rights remain separate.
+
+7. Disclaimer
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE COVERED MATERIAL IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT
+HOLDERS ARE NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE COVERED MATERIAL OR ITS USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.

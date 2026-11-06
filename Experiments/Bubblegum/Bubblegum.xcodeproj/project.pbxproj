@@ -1,0 +1,50 @@
+// !$*UTF8*$!
+{
+archiveVersion = 1;
+classes = {};
+objectVersion = 56;
+objects = {
+000000000000000000000064 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubblegumApp.swift; sourceTree = "<group>"; };
+0000000000000000000000C8 = { isa = PBXBuildFile; fileRef = 000000000000000000000064; };
+000000000000000000000065 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumRenderer.swift; sourceTree = "<group>"; };
+0000000000000000000000C9 = { isa = PBXBuildFile; fileRef = 000000000000000000000065; };
+000000000000000000000066 = { isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Gum.metal; sourceTree = "<group>"; };
+0000000000000000000000CA = { isa = PBXBuildFile; fileRef = 000000000000000000000066; };
+000000000000000000000067 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumRupture.swift; sourceTree = "<group>"; };
+0000000000000000000000CB = { isa = PBXBuildFile; fileRef = 000000000000000000000067; };
+000000000000000000000068 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumFragments.swift; sourceTree = "<group>"; };
+0000000000000000000000CC = { isa = PBXBuildFile; fileRef = 000000000000000000000068; };
+000000000000000000000069 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumSurfaceGeometry.swift; sourceTree = "<group>"; };
+0000000000000000000000CD = { isa = PBXBuildFile; fileRef = 000000000000000000000069; };
+00000000000000000000006A = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumBlowDetector.swift; sourceTree = "<group>"; };
+0000000000000000000000CE = { isa = PBXBuildFile; fileRef = 00000000000000000000006A; };
+00000000000000000000006B = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumBlowInput.swift; sourceTree = "<group>"; };
+0000000000000000000000CF = { isa = PBXBuildFile; fileRef = 00000000000000000000006B; };
+00000000000000000000006C = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumSway.swift; sourceTree = "<group>"; };
+0000000000000000000000D0 = { isa = PBXBuildFile; fileRef = 00000000000000000000006C; };
+00000000000000000000006D = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumBurstAudio.swift; sourceTree = "<group>"; };
+0000000000000000000000D1 = { isa = PBXBuildFile; fileRef = 00000000000000000000006D; };
+00000000000000000000006E = { isa = PBXFileReference; lastKnownFileType = audio.wav; path = GumBurst.wav; sourceTree = "<group>"; };
+0000000000000000000000D2 = { isa = PBXBuildFile; fileRef = 00000000000000000000006E; };
+00000000000000000000006F = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GumMotionInput.swift; sourceTree = "<group>"; };
+0000000000000000000000D3 = { isa = PBXBuildFile; fileRef = 00000000000000000000006F; };
+000000000000000000000070 = { isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+0000000000000000000000D4 = { isa = PBXBuildFile; fileRef = 000000000000000000000070; };
+000000000000000000000001 = { isa = PBXProject; attributes = { BuildIndependentTargetsInParallel = NO; LastUpgradeCheck = 2600; }; buildConfigurationList = 00000000000000000000000A; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; knownRegions = (en, Base); mainGroup = 000000000000000000000002; productRefGroup = 000000000000000000000004; projectDirPath = ""; projectRoot = ""; targets = (000000000000000000000005); };
+000000000000000000000002 = { isa = PBXGroup; children = (000000000000000000000003, 000000000000000000000004); sourceTree = "<group>"; };
+000000000000000000000003 = { isa = PBXGroup; children = (000000000000000000000064, 000000000000000000000065, 000000000000000000000066, 000000000000000000000067, 000000000000000000000068, 000000000000000000000069, 00000000000000000000006A, 00000000000000000000006B, 00000000000000000000006C, 00000000000000000000006D, 00000000000000000000006E, 00000000000000000000006F, 000000000000000000000070); path = Sources; sourceTree = "<group>"; };
+000000000000000000000004 = { isa = PBXGroup; children = (000000000000000000000006); name = Products; sourceTree = "<group>"; };
+000000000000000000000005 = { isa = PBXNativeTarget; buildConfigurationList = 00000000000000000000000B; buildPhases = (000000000000000000000007, 000000000000000000000008, 000000000000000000000009); buildRules = (); dependencies = (); name = Bubblegum; productName = Bubblegum; productReference = 000000000000000000000006; productType = "com.apple.product-type.application"; };
+000000000000000000000006 = { isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bubblegum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+000000000000000000000007 = { isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (0000000000000000000000C8, 0000000000000000000000C9, 0000000000000000000000CA, 0000000000000000000000CB, 0000000000000000000000CC, 0000000000000000000000CD, 0000000000000000000000CE, 0000000000000000000000CF, 0000000000000000000000D0, 0000000000000000000000D1, 0000000000000000000000D3); runOnlyForDeploymentPostprocessing = 0; };
+000000000000000000000008 = { isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+000000000000000000000009 = { isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (0000000000000000000000D2, 0000000000000000000000D4); runOnlyForDeploymentPostprocessing = 0; };
+00000000000000000000000A = { isa = XCConfigurationList; buildConfigurations = (00000000000000000000000C, 00000000000000000000000D); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+00000000000000000000000B = { isa = XCConfigurationList; buildConfigurations = (00000000000000000000000E, 00000000000000000000000F); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+00000000000000000000000C = { isa = XCBuildConfiguration; name = Debug; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = auto; SWIFT_VERSION = 6.0; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_APPROACHABLE_CONCURRENCY = YES; MACOSX_DEPLOYMENT_TARGET = 15.0; IPHONEOS_DEPLOYMENT_TARGET = 18.0; SWIFT_OPTIMIZATION_LEVEL = "-O"; }; };
+00000000000000000000000D = { isa = XCBuildConfiguration; name = Release; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = auto; SWIFT_VERSION = 6.0; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_APPROACHABLE_CONCURRENCY = YES; MACOSX_DEPLOYMENT_TARGET = 15.0; IPHONEOS_DEPLOYMENT_TARGET = 18.0; SWIFT_OPTIMIZATION_LEVEL = "-O"; }; };
+00000000000000000000000E = { isa = XCBuildConfiguration; name = Debug; buildSettings = { PRODUCT_BUNDLE_IDENTIFIER = com.example.swiftuiinteractions.bubblegum; PRODUCT_NAME = "$(TARGET_NAME)"; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = Bubblegum; INFOPLIST_KEY_NSMicrophoneUsageDescription = "Blow into the microphone to inflate the bubble. Audio is processed on your device and is never recorded."; INFOPLIST_KEY_NSMotionUsageDescription = "Motion sensors let the bubble sway as you tilt your phone."; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx"; TARGETED_DEVICE_FAMILY = "1,2"; SUPPORTS_MACCATALYST = NO; CODE_SIGN_STYLE = Automatic; SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1; ENABLE_APP_SANDBOX = YES; }; };
+00000000000000000000000F = { isa = XCBuildConfiguration; name = Release; buildSettings = { PRODUCT_BUNDLE_IDENTIFIER = com.example.swiftuiinteractions.bubblegum; PRODUCT_NAME = "$(TARGET_NAME)"; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = Bubblegum; INFOPLIST_KEY_NSMicrophoneUsageDescription = "Blow into the microphone to inflate the bubble. Audio is processed on your device and is never recorded."; INFOPLIST_KEY_NSMotionUsageDescription = "Motion sensors let the bubble sway as you tilt your phone."; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx"; TARGETED_DEVICE_FAMILY = "1,2"; SUPPORTS_MACCATALYST = NO; CODE_SIGN_STYLE = Automatic; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1; ENABLE_APP_SANDBOX = YES; }; };
+};
+rootObject = 000000000000000000000001;
+}
