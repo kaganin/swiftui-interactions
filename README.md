@@ -10,7 +10,7 @@ these are working prototypes to learn from, fork, and make your own. they explor
 
 blow into your iphone’s microphone to inflate a soft pink bubble. tilt the phone to make it sway, then keep blowing until the membrane tears and sticks to the glass.
 
-<img src="Media/bubblegum.png" width="280" alt="bubblegum experiment after a burst, with a blue retry control">
+<img src="Media/bubblegum.gif" width="360" alt="bubblegum inflating and bursting on an iPhone">
 
 **swiftui · metal · avaudioengine · core motion**
 
