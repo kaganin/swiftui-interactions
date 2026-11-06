@@ -4,17 +4,15 @@ small experiments in motion, materials, and interaction, built with swiftui and 
 
 these are working prototypes to learn from, fork, and make your own. they explore how an interaction feels; they are not production-ready components or physically exact simulations.
 
-
 like it? 🌟 [leave a star on github](https://github.com/kaganin/swiftui-interactions): it helps others discover these experiments.
 
 want to follow my journey? 🔗 [find me on x](https://x.com/kaganin).
-## experiments
 
-### bubblegum
+## bubble gum
 
 blow into your iphone’s microphone to inflate a soft pink bubble. tilt the phone to make it sway, then keep blowing until the membrane tears and sticks to the glass.
 
-<img src="Media/bubblegum.gif" width="360" alt="bubblegum inflating and bursting on an iPhone">
+<img src="Media/bubblegum.gif" width="360" alt="bubble gum inflating and bursting on an iPhone">
 
 **swiftui · metal · avaudioengine · core motion**
 
